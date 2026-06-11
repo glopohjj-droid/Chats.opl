@@ -1,0 +1,6 @@
+{
+  "name": "General Chat & AI Assistant",
+  "description": "A public, real-time general chat room powered by Firebase Firestore and Authentication with integrated server-side Gemini 3.1 Pro AI reasoning assisting bot of High Thinking mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
